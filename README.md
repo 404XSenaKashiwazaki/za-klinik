@@ -1,11 +1,11 @@
-/server/.env 
-APP_NAME = "APP KLINIK"
-APP_PORT= 8000
-ACCESS_TOKEN_SECRET=
-REFRESH_TOKEN_SECRET=
+<p>/server/.env</p> 
+<p>APP_NAME = "APP KLINIK"</p> 
+<p>APP_PORT= 8000</p> 
+<p>ACCESS_TOKEN_SECRET=</p> 
+<p>REFRESH_TOKEN_SECRET=</p> 
 
-DB_NAME="klinik"
-DB_USER="root"
-DB_PASS=""
-DB_HOST="localhost"
+<p>DB_NAME="klinik"</p> 
+<p>DB_USER="root"</p> 
+<p>DB_PASS=""</p> 
+<p>DB_HOST="localhost"</p> 
 
